@@ -5,11 +5,11 @@
 <h3 align="center">A passionate Flutter Developer with 2+ years of experience building production-ready mobile applications</h3>
 <br/>
 <div align="center">
- 🔭 I'm currently working at **Mitra Cerdas Nusantara** on **School Management App** (PPDB, Payment, Attendance, Schedules & more)
- 🌱 I'm currently learning **Bloc Pattern, Swift & Jetpack Compose** for native development
- 🏗️ I specialize in **Clean Architecture, Riverpod/GetX, Firebase/Supabase & Laravel Integration**
- 💼 Previous: Built large-scale hospital app at **Suitmedia**
- 💬 Ask me about **Flutter, Clean Architecture, State Management, Firebase... or anything [here](https://github.com/reyn12/reyn12/issues)**
+ 🔭 I'm currently working at **Mitra Cerdas Nusantara** on **School Management App** (PPDB, Payment, Attendance, Schedules & more) <br/>
+ 🌱 I'm currently learning **Bloc Pattern, Swift & Jetpack Compose** for native development <br/>
+ 🏗️ I specialize in **Clean Architecture, Riverpod/GetX, Firebase/Supabase & Laravel Integration** <br/>
+ 💼 Previous: Built large-scale hospital app at **Suitmedia** <br/>
+ 💬 Ask me about **Flutter, Clean Architecture, State Management, Firebase... or anything [here](https://github.com/reyn12/reyn12/issues)** <br/>
  ⚡ Fun fact **My most intense debugging session involved critical bug fixes with deep collaboration between backend & UI teams - those moments make you a better developer!**
  </div>
 
