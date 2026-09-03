@@ -8,14 +8,27 @@
  🔭 I'm currently working at **Mitra Cerdas Nusantara** on **School Management App** (PPDB, Payment, Attendance, Schedules & more)
  🌱 I'm currently learning **Bloc Pattern, Swift & Jetpack Compose** for native development
  🏗️ I specialize in **Clean Architecture, Riverpod/GetX, Firebase/Supabase & Laravel Integration**
- 📱 Published Apps: **[Maqdis Connect](https://play.google.com/store/apps/details?id=com.travel.maqdis)** (Umrah & Hajj) | **[EMCare](https://play.google.com/store/search?q=emcare&c=apps)** (Hospital) | **[iClus](https://play.google.com/store/apps/details?id=id.co.iclus&hl=id)** | **[Ziad Pesantren](https://play.google.com/store/apps/details?id=com.ziad.pesantren&hl=id)**
- 📱 Also shipped: **[Super Sport Arena](https://apps.apple.com/id/app/super-sport-arena/id6756856662?l=id)** (iOS) | **[SixITB](https://play.google.com/store/search?q=sixitb&c=apps&hl=id)** | **[Mitra Finpay](https://play.google.com/store/apps/details?id=com.finnet.mitrafinpay&hl=id)**
  💼 Previous: Built large-scale hospital app at **Suitmedia**
  💬 Ask me about **Flutter, Clean Architecture, State Management, Firebase... or anything [here](https://github.com/reyn12/reyn12/issues)**
  ⚡ Fun fact **My most intense debugging session involved critical bug fixes with deep collaboration between backend & UI teams - those moments make you a better developer!**
  </div>
+
+<h3 align="center">📱 Published Apps</h3>
+<div align="center">
+
+| App | Category |
+|---|---|
+| Maqdis Connect [(link)](https://play.google.com/store/apps/details?id=com.travel.maqdis) | Umrah & Hajj |
+| EMCare [(link)](https://play.google.com/store/search?q=emcare&c=apps) | Hospital Management |
+| iClus [(link)](https://play.google.com/store/apps/details?id=id.co.iclus&hl=id) | - |
+| Super Sport Arena [(link)](https://apps.apple.com/id/app/super-sport-arena/id6756856662?l=id) | Sports (iOS) |
+| Ziad Pesantren [(link)](https://play.google.com/store/apps/details?id=com.ziad.pesantren&hl=id) | Pesantren |
+| SixITB [(link)](https://play.google.com/store/search?q=sixitb&c=apps&hl=id) | - |
+| Mitra Finpay [(link)](https://play.google.com/store/apps/details?id=com.finnet.mitrafinpay&hl=id) | Fintech |
+
+</div>
  
-<div align="left"> 
+<div align="center"> 
   <a href="mailto:muhammadrenaldi687@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
