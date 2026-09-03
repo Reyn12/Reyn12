@@ -4,7 +4,7 @@
 </h1>
 <h3 align="center">A passionate Flutter Developer with 2+ years of experience building production-ready mobile applications</h3>
 <br/>
-<div align="center">
+<div align="left">
  🔭 I'm currently working at **Mitra Cerdas Nusantara** on **School Management App** (PPDB, Payment, Attendance, Schedules & more) <br/>
  🌱 I'm currently learning **Bloc Pattern, Swift & Jetpack Compose** for native development <br/>
  🏗️ I specialize in **Clean Architecture, Riverpod/GetX, Firebase/Supabase & Laravel Integration** <br/>
