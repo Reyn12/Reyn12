@@ -2,28 +2,30 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Reyy!;" />
 </h1>
-<h3 align="center">A passionate Flutter Developer with 2+ years of experience building production-ready mobile applications</h3>
+<h3 align="center">Flutter Mobile Developer with 2+ years shipping production apps across fintech, healthcare, sports & education</h3>
 <br/>
 <div align="left">
- 🔭 I'm currently working at **Mitra Cerdas Nusantara** on **School Management App** (PPDB, Payment, Attendance, Schedules & more) <br/>
- 🌱 I'm currently learning **Bloc Pattern, Swift & Jetpack Compose** for native development <br/>
- 🏗️ I specialize in **Clean Architecture, Riverpod/GetX, Firebase/Supabase & Laravel Integration** <br/>
- 💼 Previous: Built large-scale hospital app at **Suitmedia** <br/>
- 💬 Ask me about **Flutter, Clean Architecture, State Management, Firebase... or anything [here](https://github.com/reyn12/reyn12/issues)** <br/>
- ⚡ Fun fact **My most intense debugging session involved critical bug fixes with deep collaboration between backend & UI teams - those moments make you a better developer!**
+ 🔭 I'm currently at **PT Mitra Cerdas Nusantara**, building a Flutter Super App ecosystem for 50+ enterprise clients — cut client build & config time from 1 full day to under 5 minutes <br/>
+ 🏗️ Maintaining 3 core products on one shared basecode: **ZIAD** (student monitoring), **ZIAD POS** (offline-first), and an **Event Management** platform <br/>
+ 🧠 Specialize in **Clean Architecture & MVCS**, **GetX/Riverpod** state management, and **Dio** for REST API integration <br/>
+ ⚙️ Also work with **Firebase, WebSocket, OneSignal push notification, and CI/CD** pipelines <br/>
+ 💼 Previously at **Suitmedia**: shipped features for ICLus, SixITB, FinPay, EMCare & EMDoctor, and Super Sport Arena — including healthcare modules serving 70K+ users <br/>
+ 🎓 Informatics Engineering @ Indonesian Computer University (2022–2026), GPA 3.67/4.0 <br/>
+ 💬 Ask me about **Flutter, Clean Architecture, State Management, Firebase... or anything [here](https://github.com/reyn12/reyn12/issues)**
  </div>
 
 <h3 align="center">📱 Published Apps</h3>
+
 <div align="center">
 
 | App | Category |
 |---|---|
 | Maqdis Connect [(link)](https://play.google.com/store/apps/details?id=com.travel.maqdis) | Umrah & Hajj |
 | EMCare [(link)](https://play.google.com/store/search?q=emcare&c=apps) | Hospital Management |
-| iClus [(link)](https://play.google.com/store/apps/details?id=id.co.iclus&hl=id) | - |
+| iClus [(link)](https://play.google.com/store/apps/details?id=id.co.iclus&hl=id) | Garuda Indonesia |
 | Super Sport Arena [(link)](https://apps.apple.com/id/app/super-sport-arena/id6756856662?l=id) | Sports (iOS) |
 | Ziad Pesantren [(link)](https://play.google.com/store/apps/details?id=com.ziad.pesantren&hl=id) | Pesantren |
-| SixITB [(link)](https://play.google.com/store/search?q=sixitb&c=apps&hl=id) | - |
+| SixITB [(link)](https://play.google.com/store/search?q=sixitb&c=apps&hl=id) | ITB Campus App |
 | Mitra Finpay [(link)](https://play.google.com/store/apps/details?id=com.finnet.mitrafinpay&hl=id) | Fintech |
 
 </div>
