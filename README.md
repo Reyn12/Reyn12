@@ -1,32 +1,21 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=reyn12.reyn12" />
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Reyy!;" />
 </h1>
-
 <h3 align="center">A passionate Flutter Developer with 2+ years of experience building production-ready mobile applications</h3>
-
 <br/>
-
 <div align="center">
-
  🔭 I'm currently working at **Mitra Cerdas Nusantara** on **School Management App** (PPDB, Payment, Attendance, Schedules & more)
-
  🌱 I'm currently learning **Bloc Pattern, Swift & Jetpack Compose** for native development
-
  🏗️ I specialize in **Clean Architecture, Riverpod/GetX, Firebase/Supabase & Laravel Integration**
-
- 📱 Published Apps: **[Maqdis Connect](https://play.google.com/store/apps/details?id=com.travel.maqdis)** (Umrah & Hajj) | **[EMCare](https://play.google.com/store/search?q=emcare&c=apps)** (Hospital Management)
-
+ 📱 Published Apps: **[Maqdis Connect](https://play.google.com/store/apps/details?id=com.travel.maqdis)** (Umrah & Hajj) | **[EMCare](https://play.google.com/store/search?q=emcare&c=apps)** (Hospital) | **[iClus](https://play.google.com/store/apps/details?id=id.co.iclus&hl=id)** | **[Ziad Pesantren](https://play.google.com/store/apps/details?id=com.ziad.pesantren&hl=id)**
+ 📱 Also shipped: **[Super Sport Arena](https://apps.apple.com/id/app/super-sport-arena/id6756856662?l=id)** (iOS) | **[SixITB](https://play.google.com/store/search?q=sixitb&c=apps&hl=id)** | **[Mitra Finpay](https://play.google.com/store/apps/details?id=com.finnet.mitrafinpay&hl=id)**
  💼 Previous: Built large-scale hospital app at **Suitmedia**
-
  💬 Ask me about **Flutter, Clean Architecture, State Management, Firebase... or anything [here](https://github.com/reyn12/reyn12/issues)**
-
  ⚡ Fun fact **My most intense debugging session involved critical bug fixes with deep collaboration between backend & UI teams - those moments make you a better developer!**
-
  </div>
  
-<div align="center"> 
+<div align="left"> 
   <a href="mailto:muhammadrenaldi687@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -37,7 +26,6 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
-
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
@@ -46,10 +34,8 @@
     <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,laravel,swift,kotlin,androidstudio,vscode,github,figma,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,react,nextjs,express,mysql,mongodb,python,java,html,css" /><br>
 </div>
-
 <br/>
 <hr/>
-
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
@@ -57,4 +43,3 @@
   
   <br/><br/><br/>
 </div>
-
