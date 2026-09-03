@@ -5,13 +5,13 @@
 <h3 align="center">Flutter Mobile Developer with 2+ years shipping production apps across fintech, healthcare, sports & education</h3>
 <br/>
 <div align="left">
- 🔭 I'm currently at **PT Mitra Cerdas Nusantara**, building a Flutter Super App ecosystem for 50+ enterprise clients — cut client build & config time from 1 full day to under 5 minutes <br/>
- 🏗️ Maintaining 3 core products on one shared basecode: **ZIAD** (student monitoring), **ZIAD POS** (offline-first), and an **Event Management** platform <br/>
- 🧠 Specialize in **Clean Architecture & MVCS**, **GetX/Riverpod** state management, and **Dio** for REST API integration <br/>
- ⚙️ Also work with **Firebase, WebSocket, OneSignal push notification, and CI/CD** pipelines <br/>
- 💼 Previously at **Suitmedia**: shipped features for ICLus, SixITB, FinPay, EMCare & EMDoctor, and Super Sport Arena — including healthcare modules serving 70K+ users <br/>
+ 🔭 I'm currently at <b>PT Mitra Cerdas Nusantara</b>, building a Flutter Super App ecosystem for 50+ enterprise clients — cut client build & config time from 1 full day to under 5 minutes <br/>
+ 🏗️ Maintaining 3 core products on one shared basecode: <b>ZIAD</b> (student monitoring), <b>ZIAD POS</b> (offline-first), and an <b>Event Management</b> platform <br/>
+ 🧠 Specialize in <b>Clean Architecture & MVCS</b>, <b>GetX/Riverpod</b> state management, and <b>Dio</b> for REST API integration <br/>
+ ⚙️ Also work with <b>Firebase, WebSocket, OneSignal push notification, and CI/CD</b> pipelines <br/>
+ 💼 Previously at <b>Suitmedia</b>: shipped features for ICLus, SixITB, FinPay, EMCare & EMDoctor, and Super Sport Arena — including healthcare modules serving 70K+ users <br/>
  🎓 Informatics Engineering @ Indonesian Computer University (2022–2026), GPA 3.67/4.0 <br/>
- 💬 Ask me about **Flutter, Clean Architecture, State Management, Firebase... or anything [here](https://github.com/reyn12/reyn12/issues)**
+ 💬 Ask me about <b>Flutter, Clean Architecture, State Management, Firebase... or anything <a href="https://github.com/reyn12/reyn12/issues">here</a></b>
  </div>
 
 <h3 align="center">📱 Published Apps</h3>
